@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+venv/
+.env/
+
+# OS
+.DS_Store
+
+# Output snapshots
+output/
+outputs/
+snapshots/
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
+
+# IDE
+.vscode/
+.idea/
